@@ -4,7 +4,7 @@
 
 Source Code is present in the Azure Repos as shown in the screenshot attached below.
 ![image](https://github.com/user-attachments/assets/74bf27b1-e787-4e5f-b48d-0711adc17178)
-![image](https://github.com/user-attachments/assets/2fa675ea-635a-4529-879f-48c3d1b79674)
+![image](https://github.com/user-attachments/assets/ab5d1257-120b-4373-858d-b0d018a51bb6)
 
 Service Connection is created as shown in the screenshot attached below.
 ![image](https://github.com/user-attachments/assets/3d7a6e96-1618-42f5-a542-3bbe6ff24f85)
